@@ -17,20 +17,20 @@ This is a Java-based implementation of the classic Arkanoid game. The game featu
 This project comes with a `build.xml` file for easy compilation and execution.
 
 To compile the code, use the following Ant command:
-\\\bash
+```bash
 ant compile
-\\\
+```
 
 To run the compiled code, use:
-\\\bash
+```bash
 ant run
-\\\
+```
 
 You can specify the sequence of levels
 to play by passing arguments to the ant run command like this:
-\\\bash
+```bash
 ant -Dargs="1 3 2 1 9 1 bla 3 3" run
-\\\
+```
 The numbers and strings represent the order of levels that will be loaded during the game.
  
 ## Controls
