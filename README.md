@@ -11,8 +11,25 @@ This is a Java-based implementation of the classic Arkanoid game. The game featu
 - **Brick Levels**: Different levels of bricks that require a hit to break.
 - **Score Tracking**: Keep track of your score as you break bricks and complete levels.
 - **Game States**: Start, Pause, and End screens for better game control.
-- 
+
 ## Compilation and Execution
+
+### Install Apache Ant
+
+To compile and run this project, you need Apache Ant installed:
+
+1. **Download and Extract Apache Ant**:
+   - Download from the [Apache Ant website](https://ant.apache.org/bindownload.cgi).
+   - Extract it to a directory (e.g., `C:\apache-ant-1.10.13`).
+
+2. **Set Up Environment Variables**:
+   - Set `ANT_HOME` to the Ant directory (e.g., `C:\apache-ant-1.10.13`).
+   - Add `%ANT_HOME%\bin` to your `PATH` variable.
+
+3. **Verify Installation**:
+   - Run `ant -version` in Command Prompt to check if Ant is installed correctly.
+
+### Compile and Run the Game
 
 This project comes with a `build.xml` file for easy compilation and execution.
 
