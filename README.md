@@ -39,3 +39,8 @@ The numbers and strings represent the order of levels that will be loaded during
 - **Right Arrow**: Move paddle right
 - **Space**: Exit the game after loss/win
 - **P**: Pause the game
+
+## Photos 
+![Screenshot 2024-08-21 204756](https://github.com/user-attachments/assets/532d8775-fa67-4206-8d8d-1f686c679869)
+![Screenshot 2024-08-21 204813](https://github.com/user-attachments/assets/9c2dbfd1-61a0-4c17-b466-fd3b7d822461)
+![Screenshot 2024-08-21 204832](https://github.com/user-attachments/assets/1d9046b3-a9f4-4b78-925e-f6e7debf0248)
